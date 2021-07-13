@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: #ccaabb;
+}
+
+ul {
+	
+	width: 55%;
+	list-style: none;
+	background-color: #ffff00;
+	padding: 1em;
+	border-style: solid;
+	border-color: #00cccc;
+	border-width: 1%;
+}
+
+li{
+	display: inline;
+	width: 98%;
+	background-color: #ef2ecd;
+	padding: 1%;
+	margin: 1%;
+}
